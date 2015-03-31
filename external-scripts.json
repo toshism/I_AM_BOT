@@ -13,6 +13,5 @@
     "hubot-ambush",
     "hubot-explainshell",
     "hubot-in-space",
-    "hubot-seen",
-    "hubot-logger"
+    "hubot-seen"
 ]
