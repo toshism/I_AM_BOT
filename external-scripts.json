@@ -13,5 +13,6 @@
     "hubot-ambush",
     "hubot-explainshell",
     "hubot-in-space",
-    "hubot-seen"
+    "hubot-seen",
+    "hubot-giphy-gifme"
 ]
