@@ -9,12 +9,12 @@
     "hubot-ambush": "0.0.3",
     "hubot-diagnostics": "0.0.1",
     "hubot-explainshell": ">= 0.0.0",
+    "hubot-giphy-gifme": "^0.1.2",
     "hubot-google-images": "^0.1.4",
     "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-in-space": "^2.0.0",
-    "hubot-irc": "^0.2.7",
     "hubot-logger": "0.0.11",
     "hubot-maps": "0.0.1",
     "hubot-pugme": "^0.1.0",
@@ -23,6 +23,7 @@
     "hubot-scripts": "^2.5.16",
     "hubot-seen": "^0.2.2",
     "hubot-shipit": "^0.1.2",
+    "hubot-slack": "^3.3.0",
     "hubot-youtube": "^0.1.2"
   },
   "engines": {
