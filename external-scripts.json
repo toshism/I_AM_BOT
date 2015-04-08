@@ -14,5 +14,6 @@
     "hubot-explainshell",
     "hubot-in-space",
     "hubot-seen",
-    "hubot-giphy-gifme"
+    "hubot-giphy-gifme",
+    "hubot-impersonate"
 ]
